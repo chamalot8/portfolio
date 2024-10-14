@@ -1,0 +1,12 @@
+/* Add styles here */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main {
+    background: #414141;
+    height: 100dvh;
+    width: 100dvw;
+}
